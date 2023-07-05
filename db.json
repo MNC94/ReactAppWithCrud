@@ -1,0 +1,58 @@
+{
+  "department": [
+    {
+      "id": 4,
+      "DepartmentName": "ECE3"
+    },
+    {
+      "DepartmentName": "CSE",
+      "id": 5
+    },
+    {
+      "DepartmentName": "c",
+      "id": 6
+    },
+    {
+      "DepartmentName": "f",
+      "id": 7
+    },
+    {
+      "DepartmentName": "f",
+      "id": 8
+    },
+    {
+      "DepartmentName": "SWERRRR",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "DepartmentName": "SSS1"
+    },
+    {
+      "DepartmentName": "SSS2",
+      "id": 11
+    },
+    {
+      "DepartmentName": "ss4",
+      "id": 12
+    },
+    {
+      "DepartmentName": "ss5",
+      "id": 13
+    },
+    {
+      "DepartmentName": "4455",
+      "id": 14
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
